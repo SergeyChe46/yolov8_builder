@@ -1,0 +1,6 @@
+train: /home/sergeyche/Projects/Python/yolov8_builder/train
+val: /home/sergeyche/Projects/Python/yolov8_builder/val
+
+nc: 2
+
+names: ['hat', 'jacket']
